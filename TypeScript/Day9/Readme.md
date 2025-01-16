@@ -1,0 +1,1 @@
+# If Else & Ternary Operator in TypeScript
